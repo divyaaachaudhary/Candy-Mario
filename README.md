@@ -4,3 +4,5 @@ This is a work-in-progress 2D platformer game developed in Unity, inspired by th
 
 
 https://github.com/user-attachments/assets/c0a57e8b-1c57-4be4-893f-c1ba7fa768af
+
+![Image](https://github.com/user-attachments/assets/dac6e311-7b9b-4a25-ae7c-d0aa5ece9af0)
